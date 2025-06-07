@@ -2,17 +2,9 @@
 
 using namespace std;
 
+//Sara Molina
 int main(){
-    string user;
     
-    cout<<"Ingrese su nombre "<<endl;
-
-    cin>>user;
-    cout<<"BIENVENIDO " << user<<endl;
-    if (user != "" || user != " "){
-        cout<<"Hola "<<user<<endl;
-    }else{
-        cout <<"HOLA MUNDO"<<endl;
-    }
+    cout<<"Hola mundo "<<endl;
 
 }
